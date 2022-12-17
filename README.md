@@ -5,7 +5,7 @@ This is insane
 
 This was found in early 2022 and is still not patched
 
-Using JSMacros and hacked clients me,0605,and somne others, PokeCom was used to grief unclaimed bases,Spawn trap innocent players, and claim around bases to prevent expansion
+Using JSMacros and hacked clients me,0605,and some others exploited PokeCom to grief unclaimed bases,Spawn trap innocent players, and claim around bases to prevent expansion
 
 ![image](https://user-images.githubusercontent.com/88116907/208269041-230f5ba0-6cd0-4bbd-af6c-5e7406e00475.png)
 
