@@ -22,5 +22,12 @@ Each line is a player
 The main developer is 0605 and me.
 
 --EXPLINATION--
+
 Pixelmon loads a fake player for everyone on a server when they join or switch dimensions
+
 This can be used with a simple loaded entity checker to get the x,y,z position of a player
+
+--USAGE--
+1. get js macros
+2. get the jep addon
+3. hope its not patched
