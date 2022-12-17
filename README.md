@@ -18,3 +18,9 @@ Using JSMacros and hacked clients me,0605,and some others exploited PokeCom to g
 Each line is a player
 
 ![image](https://user-images.githubusercontent.com/88116907/208269065-aa22d9f1-49cf-47ae-946d-b7c4184f85e3.png)
+
+The main developer is 0605 and me.
+
+--EXPLINATION--
+Pixelmon loads a fake player for everyone on a server when they join or switch dimensions
+This can be used with a simple loaded entity checker to get the x,y,z position of a player
