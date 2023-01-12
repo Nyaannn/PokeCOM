@@ -3,7 +3,7 @@ nocom but for shitty pay to win pokemon servers
 
 This is insane
 
-This was found in early 2022 and is still not patched
+This was found in early 2021 and is still not patched
 
 Using JSMacros and hacked clients me,0605,and some others exploited PokeCom to grief unclaimed bases,Spawn trap innocent players, and claim around bases to prevent expansion
 
